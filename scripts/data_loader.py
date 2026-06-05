@@ -7,7 +7,7 @@ import yfinance as yf
 import feedparser
 
 # ⚠️ 반드시 자신의 이메일로 변경
-Entrez.email = "your_email@example.com"
+Entrez.email = "iamcoolkorean@gmail.com"
 
 def slugify(name: str) -> str:
     """약물명을 파일/폴더명에 안전한 형태로 변환"""
